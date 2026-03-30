@@ -1,0 +1,5 @@
+name = "6666666666666666666666111111111111111111"
+compatibility_date = "2025-09-27"
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
